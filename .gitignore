@@ -6,5 +6,6 @@
 Thumbs.db
 .tmp
 .log
+assets/css/main.css.map
 assets/css/.sass-cache
 assets/css/.sass-cache/*
